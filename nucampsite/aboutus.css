@@ -3,11 +3,11 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: "Lobster", cursive;
+   font-family: "Lobster", cursive;
 }
 
 h2 {
-    color: #3046c5;
+   color: #3046C5;
 }
 
 header {
@@ -29,4 +29,19 @@ footer {
     padding: 50px 0;
     border-bottom: 1px ridge;
     min-height: 200px;
+}
+
+.accordion-button {
+    background-color: #d3d3d3;
+  }
+
+.logo {
+    max-width: 0.5px;
+    height: auto;
+}
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
 }
